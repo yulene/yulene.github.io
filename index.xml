@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lene Yu的博客</title>
-    <link>https://www.leneyu.com/</link>
+    <link>http://www.leneyu.com/</link>
     <description>Recent content on Lene Yu的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Jul 2021 14:00:00 +0800</lastBuildDate><atom:link href="https://www.leneyu.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jul 2021 14:00:00 +0800</lastBuildDate><atom:link href="http://www.leneyu.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇文章</title>
-      <link>https://www.leneyu.com/post/2021-07-17-first-post/</link>
+      <link>http://www.leneyu.com/post/2021-07-17-first-post/</link>
       <pubDate>Sat, 17 Jul 2021 14:00:00 +0800</pubDate>
       
-      <guid>https://www.leneyu.com/post/2021-07-17-first-post/</guid>
+      <guid>http://www.leneyu.com/post/2021-07-17-first-post/</guid>
       <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
     </item>
     
     <item>
       <title>关于我</title>
-      <link>https://www.leneyu.com/about/</link>
+      <link>http://www.leneyu.com/about/</link>
       <pubDate>Tue, 10 Mar 2015 00:13:27 +0000</pubDate>
       
-      <guid>https://www.leneyu.com/about/</guid>
+      <guid>http://www.leneyu.com/about/</guid>
       <description>全世界最可爱的宝宝</description>
     </item>
     
     <item>
       <title>归档</title>
-      <link>https://www.leneyu.com/archives/</link>
+      <link>http://www.leneyu.com/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.leneyu.com/archives/</guid>
+      <guid>http://www.leneyu.com/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>搜索</title>
-      <link>https://www.leneyu.com/search/</link>
+      <link>http://www.leneyu.com/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.leneyu.com/search/</guid>
+      <guid>http://www.leneyu.com/search/</guid>
       <description></description>
     </item>
     
