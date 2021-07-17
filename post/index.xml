@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lene Yu的博客</title>
-    <link>https://www.flysnow.org/post/</link>
+    <link>https://www.leneyu.com/post/</link>
     <description>Recent content in Posts on Lene Yu的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Jul 2021 14:00:00 +0800</lastBuildDate><atom:link href="https://www.flysnow.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jul 2021 14:00:00 +0800</lastBuildDate><atom:link href="https://www.leneyu.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇文章</title>
-      <link>https://www.flysnow.org/post/2021-07-17-first-post/</link>
+      <link>https://www.leneyu.com/post/2021-07-17-first-post/</link>
       <pubDate>Sat, 17 Jul 2021 14:00:00 +0800</pubDate>
       
-      <guid>https://www.flysnow.org/post/2021-07-17-first-post/</guid>
+      <guid>https://www.leneyu.com/post/2021-07-17-first-post/</guid>
       <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
     </item>
     
