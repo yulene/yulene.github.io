@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Lene Yu的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Jul 2021 15:49:06 +0800</lastBuildDate><atom:link href="https://www.leneyu.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jul 2021 16:16:11 +0800</lastBuildDate><atom:link href="https://www.leneyu.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lene</title>
+      <link>https://www.leneyu.com/post/lene/</link>
+      <pubDate>Sat, 17 Jul 2021 16:16:11 +0800</pubDate>
+      
+      <guid>https://www.leneyu.com/post/lene/</guid>
+      <description>这是标题 这是内容</description>
+    </item>
+    
     <item>
       <title>First</title>
       <link>https://www.leneyu.com/post/first/</link>
