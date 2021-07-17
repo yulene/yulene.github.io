@@ -5,16 +5,6 @@
     <link>http://www.leneyu.com/tags/</link>
     <description>Recent content in Tags on Lene Yu的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate><atom:link href="http://www.leneyu.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>golang</title>
-      <link>http://www.leneyu.com/tags/golang/</link>
-      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
-      
-      <guid>http://www.leneyu.com/tags/golang/</guid>
-      <description></description>
-    </item>
-    
+    <language>zh-CN</language><atom:link href="http://www.leneyu.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
